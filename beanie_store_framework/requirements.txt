@@ -1,0 +1,3 @@
+beanie==0.20.1
+pydantic==1.8.2
+motor==2.5.0
